@@ -11,9 +11,9 @@ My journey in IT has led me to a keen interest in cybersecurity, prompting my de
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Attack Simulation and Detection               | <a href="https://google.com">Detection Lab</a>|
-| Active Directory management                   | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Giorojas11/Detection-Lab">Detection Lab</a>|
+| Attack Simulation and Detection               | <a href="https://github.com/Giorojas11/Detection-Lab">Detection Lab</a>|
+| Active Directory management                   | <a href="https://github.com/Giorojas11/Detection-Lab">Detection Lab</a>|
 
 ## Tools
 
