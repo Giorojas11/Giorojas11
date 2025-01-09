@@ -1,8 +1,6 @@
 # Hello, I'm Giovanni Rojas
 <a href="https://www.linkedin.com/in/giovannirojas1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-With two years of immersive IT experience, I've refined not just my technical expertise but also my knack for customer service and problem-solving. In fast-paced environments, I excel at troubleshooting with a strong emphasis on ensuring customer satisfaction. I enjoy continuously learning and improving my skills, I aspire to apply myself in the realm of cybersecurity.
-
 ## Objective
 
 My journey in IT has led me to a keen interest in cybersecurity, prompting my desire to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
