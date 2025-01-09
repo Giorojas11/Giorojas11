@@ -3,7 +3,7 @@
 
 ## Objective
 
-My journey in IT has led me to a keen interest in cybersecurity, prompting my desire to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to a keen interest in cybersecurity, prompting my desire to transition into this field. After landing an opportunity as a SOC analyst, I aim to hone the skills I've gained on the job, and on my own time. My next steps include upskilling and expanding my cybersecurity knowledge. 
 
 ## Skills
 
@@ -40,10 +40,6 @@ My journey in IT has led me to a keen interest in cybersecurity, prompting my de
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-Studying for
-</div>
-<img src="https://img.shields.io/badge/-CCNA-1A5E99?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ## Projects
