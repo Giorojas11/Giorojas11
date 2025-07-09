@@ -7,6 +7,12 @@
 
 Security Operations Center (SOC) Analyst with 4 years of experience in threat detection, incident response, and SIEM management. Currently expanding into cybersecurity engineering with a focus on network and cloud security. Passionate about building scalable, secure systems and deepening my expertise across the cybersecurity stack, from hands-on detection to proactive defense engineering.
 
+## Projects
+- Detection Lab
+- TryHackMe SOC Level 1
+- TryHackMe Pre-Security
+
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -44,5 +50,3 @@ Security Operations Center (SOC) Analyst with 4 years of experience in threat de
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
