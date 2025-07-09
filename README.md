@@ -1,9 +1,10 @@
 # Hello, I'm Giovanni Rojas
 <a href="https://www.linkedin.com/in/giovannirojas1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/grojas"><img <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2969100" style='border:none;'></iframe>" /></a>
 
 ## Objective
 
-My journey in IT has led me to a keen interest in cybersecurity, prompting my desire to transition into this field. After landing an opportunity as a SOC analyst, I aim to hone the skills I've gained on the job, and on my own time. My next steps include upskilling and expanding my cybersecurity knowledge. 
+Security Operations Center (SOC) Analyst with 4 years of experience in threat detection, incident response, and SIEM management. Currently expanding into cybersecurity engineering with a focus on network and cloud security. Passionate about building scalable, secure systems and deepening my expertise across the cybersecurity stack, from hands-on detection to proactive defense engineering.
 
 ## Skills
 
