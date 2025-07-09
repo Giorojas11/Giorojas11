@@ -1,6 +1,6 @@
 # Hello, I'm Giovanni Rojas
 <a href="https://www.linkedin.com/in/giovannirojas1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/grojas"> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2969100" style='border:none;'></iframe> /></a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2969100" style='border:none;'></iframe>
 
 ## Objective
 
