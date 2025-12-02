@@ -5,9 +5,10 @@
 
 ## Objective
 
-Security Operations Center (SOC) Analyst with 4 years of experience in threat detection, incident response, and SIEM management. Currently expanding into cybersecurity engineering with a focus on network and cloud security. Passionate about building scalable, secure systems and deepening my expertise across the cybersecurity stack, from hands-on detection to proactive defense engineering.
+Security Operations Center (SOC) Analyst with 4 years of experience in threat detection, incident response, and SIEM management. Currently expanding into cybersecurity engineering with a focus on cloud security.
 
 ## Projects
+- AWS Projects
 - Detection Lab
 - TryHackMe SOC Level 1
 - TryHackMe Pre-Security
@@ -28,9 +29,11 @@ Security Operations Center (SOC) Analyst with 4 years of experience in threat de
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Networking
+### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+ <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
 
 ### Endpoint
