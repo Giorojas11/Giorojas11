@@ -18,7 +18,7 @@ Security Operations Center (SOC) Analyst with 4 years of experience in threat de
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Terraform (IaC                                | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/S3-Bucket-Terraform"> AWS Projects - S3-Bucket-Terraform</a>|
+| Terraform (IaC)                               | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/S3-Bucket-Terraform"> AWS Projects - S3-Bucket-Terraform</a>|
 | Cloud Security                                | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/S3-Bucket-Terraform"> AWS Projects - S3-Bucket-Terraform</a>|
 | Identity & Access Management                  | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/S3-Bucket-Terraform"> AWS Projects - S3-Bucket-Terraform</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Giorojas11/Detection-Lab">Detection Lab</a>|
