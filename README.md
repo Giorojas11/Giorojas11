@@ -19,9 +19,9 @@ Security Operations Center (SOC) Analyst with 4 years of experience in threat de
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Terraform (IaC)                               | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/S3-Bucket-Terraform"> AWS Projects - S3-Bucket-Terraform</a>, <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/Networking-Terraform"> Cloud-Networking </a>|
-| Networking/Network Security                   | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/Networking-Terraform"> Cloud-Networking </a>|
-| Cloud Security                                | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/S3-Bucket-Terraform"> AWS Projects - S3-Bucket-Terraform</a>, <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/Networking-Terraform"> Cloud-Networking </a>|
-| Identity & Access Management                  | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/S3-Bucket-Terraform"> AWS Projects - S3-Bucket-Terraform</a>, <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/Networking-Terraform"> Cloud-Networking </a>|
+| Networking/Network Security                   | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/Networking-Terraform"> AWS Projects - Networking-Terraform </a>|
+| Cloud Security                                | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/S3-Bucket-Terraform"> AWS Projects - S3-Bucket-Terraform</a>, <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/Networking-Terraform"> AWS Projects -Networking-Terraform </a>|
+| Identity & Access Management                  | <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/S3-Bucket-Terraform"> AWS Projects - S3-Bucket-Terraform</a>, <a href="https://github.com/Giorojas11/AWS-Projects/tree/main/Networking-Terraform"> AWS Projects - Networking-Terraform </a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Giorojas11/Detection-Lab">Detection Lab</a>|
 | Attack Simulation and Detection               | <a href="https://github.com/Giorojas11/Detection-Lab">Detection Lab</a>|
 | Active Directory Management                   | <a href="https://github.com/Giorojas11/Detection-Lab">Detection Lab</a>|
