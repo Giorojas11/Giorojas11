@@ -35,9 +35,21 @@ Security Operations Center (SOC) Analyst with 4 years of experience in threat de
 
 ### Cloud
 <div>
- <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange" />
+ <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+ <img src="https://img.shields.io/badge/AWS_VPC-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+ <img src="https://img.shields.io/badge/EC2-F8991D?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+ <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+ <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+ <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+</div>
+
+### Networking
+<div>
+ <img src="https://img.shields.io/badge/Network_ACLs-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+ <img src="https://img.shields.io/badge/Security_Groups-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+ <img src="https://img.shields.io/badge/Subnets-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </div>
 
 ### Endpoint
